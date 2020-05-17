@@ -1,15 +1,15 @@
 .is-spacer-1 {
-    margin-bottom: 1em;
+    margin-bottom: 1em !important;
 }
 
 .is-spacer-2 {
-    margin-bottom: 2em;
+    margin-bottom: 2em !important;
 }
 
 .is-spacer-3 {
-    margin-bottom: 3em;
+    margin-bottom: 3em !important;
 }
 
 .is-spacer-4 {
-    margin-bottom: 4em;
+    margin-bottom: 4em !important;
 }

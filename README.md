@@ -3,7 +3,7 @@ Free Bulma landing page with fullscreen hero.
 
 ## Demo
 
-https://arscar.github.io/bulma-landing-page/src/
+https://arscar.github.io/bulma-landing-page/
 
 ## Screenshoot
 
@@ -16,4 +16,4 @@ https://arscar.github.io/bulma-landing-page/src/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

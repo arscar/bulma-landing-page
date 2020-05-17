@@ -3,7 +3,7 @@ Free Bulma landing page with fullscreen hero.
 
 ## Demo
 
-https://arscar.github.io/bulma-landing-page/src/
+https://arscar.github.io/bulma-landing-page/
 
 ## Screenshoot
 
